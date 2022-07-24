@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "@chakra-ui/react": "^2.2.1",
+    "axios": "^0.27.2",
+    "react-query": "^3.39.1"
+  },
+  "devDependencies": {
+    "react-router-dom": "^6.3.0"
+  }
+}
