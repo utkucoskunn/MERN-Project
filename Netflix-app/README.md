@@ -19,10 +19,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+<h4><strong>Client Page</strong></h4>
+<img src="images/ss-1.png" alt="Logo" width="700" height="500">
+<img src="images/ss-2.png" alt="Logo" width="700" height="500">
+<h4><strong>Admin Page</strong></h4>
+<img src="images/ss-3.png" alt="Logo" width="700" height="500">
+<img src="images/ss-4.png" alt="Logo" width="700" height="500">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,4 +98,5 @@ Utku Coşkun -  - utkucoskun1@gmail.com
 [React-Router]:
 [Node.js Express]:
 [Mongo.db]:
-[Google firebase]:
+[Firebase.gb]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
