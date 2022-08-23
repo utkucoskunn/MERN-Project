@@ -6,7 +6,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Netflix-app</h3>
 
  
 </div>
@@ -78,16 +78,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Utku Coşkun -  - utkucoskun1@gmail.com
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -96,3 +92,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Node.js]:
+[React-Router]:
+[Node.js Express]:
+[Mongo.db]:
+[Google firebase]:
