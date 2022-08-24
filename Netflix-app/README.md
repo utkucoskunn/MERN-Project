@@ -39,9 +39,11 @@
 * [![Node.js Express][Node.js Express]][Node.js Express-url]
 * [![Mongo.db][Mongo.db]][Mongo.db-url]
 * [![Firebase.gb][Firebase.gb]][Firebase.gb-url]
+* [![JWT][JWT]][JWT-url]
+* ![HTML5][HTML5]
 
 
-Node.js Express
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,4 +113,12 @@ Utku Coşkun -  - utkucoskun1@gmail.com
 [Mongo.db-url]:https://www.mongodb.com/
 [Firebase.gb]:https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&style=plastic&Width=30
 [Firebase.gb-url]:https://firebase.google.com/
+[JWT]:https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&style=plastic&Width=30
+[JWT-url]:https://jwt.io/
+[HTML5]:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&style=plastic&Width=30
+
+
+
+
+
 
