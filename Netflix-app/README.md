@@ -34,6 +34,8 @@
 
 
 * [![React][React.js]][React-url]
+* [![React-Router][React-Router]][React-Router-url]
+* [![Node][Node.js]][Node-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -92,10 +94,12 @@ Utku Coşkun -  - utkucoskun1@gmail.com
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic&Width=30
 [React-url]: https://reactjs.org/
-[Node.js]:
-[React-Router]:
+[React-Router]: https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=plastic&Width=30
+[React-Router-url]: https://reactrouter.com/
+[Node.js]:https://img.shields.io/badge/-Node.js-#339933?logo=node&logoColor=#339933&style=plastic&Width=30
+[Node-url]:https://nodejs.org/
 [Node.js Express]:
 [Mongo.db]:
 [Firebase.gb]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
